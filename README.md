@@ -208,7 +208,7 @@ Mariia Ilnitska
 
 Junior Python Automation / Tech Assistant
 
-** Contacts
+** Contacts **
 
 Gmail: maria.ilnitska11@gmail.com
 
