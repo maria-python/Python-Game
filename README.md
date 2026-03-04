@@ -199,8 +199,8 @@ python main.py
 - Leaderboard functionality  
 - Background scenery and particle effects  
 - Sound effects for catching fish  
-- Mobile adaptation  
-
+- Mobile adaptation
+- 
 
 ## Author
 
